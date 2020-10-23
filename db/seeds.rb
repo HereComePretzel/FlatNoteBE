@@ -6,7 +6,7 @@ puts "your mother will be sucking cocks in hell!"
 Note.destroy_all
 User.destroy_all
 
-User.create(username: "Austin", user_id: 4)
+User.create(username: "Austin")
 
 
 20.times do Note.create(
